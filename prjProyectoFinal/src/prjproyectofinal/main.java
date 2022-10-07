@@ -1,12 +1,9 @@
-
 package prjproyectofinal;
-
 /**
  *
  * @author Juanpa
  */
 public class main {
-
     /**
      * @param args the command line arguments
      */
@@ -15,3 +12,5 @@ public class main {
     }
     
 }
+
+//sirve onosirve
